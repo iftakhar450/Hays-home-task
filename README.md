@@ -18,8 +18,8 @@ A React and TypeScript application with a static image and an interactive raster
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/raster-grid-app.git
-   cd raster-grid-app
+   git clone https://github.com/iftakhar450/Hays-home-task.git
+   cd Hays-home-task
    ```
 
 2. Install dependencies:
